@@ -1,4 +1,3 @@
-Delete
 clean the table
 New cleaner
 newnew
@@ -6,3 +5,4 @@ Norma
 new line
 new
 Please
+Localy

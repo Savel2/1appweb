@@ -12,7 +12,8 @@ def add_todo():
 
 st.title("Yoyo wasup. This is the main title")
 st.subheader("This is subheader")
-st.write("This is simple text") #this is for the simple text
+st.write("<h1>This is simple <b>text</b>.<h1/>", #this peace of code is HTML
+         unsafe_allow_html=True) #this command tell to render (part abobe) html as html. By default this is False
 
 
 
