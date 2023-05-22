@@ -1,4 +1,3 @@
-Normal
 clean
 Delete
 clean the table
@@ -7,3 +6,4 @@ newnew
 Norma
 new line
 new
+Please

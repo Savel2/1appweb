@@ -26,4 +26,3 @@ for index, todo in enumerate(todos):
 
 st.text_input(label = "", placeholder= "Enter new todo...",
                on_change = add_todo, key = "new_todo") #label arguement is required, that's why I left it in parentheses. The on_change event occurs when the value of an HTML element is changed.
-st.session_state
